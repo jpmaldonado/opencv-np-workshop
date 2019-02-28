@@ -1,0 +1,15 @@
+OpenCV 4.0.0 (Contrib)
+
+You can install from pip: pip install opencv-contrib-python
+
+Suggested packages:
+
+Matplotlib (version 2.1.2)
+Numpy (1.14.3)
+MeshLab (http://www.meshlab.net/) for visualizing reconstructed 3D images.
+
+Strongly recommended for quick prototyping: Jupyter Notebook with ipywidgets.
+It should be part of the standard installation, please check that the following import
+works:
+
+"from ipywidgets import interact"
